@@ -34,7 +34,7 @@ def allow_sleep(process):
 process = prevent_sleep()
 
 # Set the base directory
-base_directory = "/Users/anyamarchenko/Desktop/ethnolinguistic"
+base_directory = "/Users/anyamarchenko/Documents/Github/ethnolinguistic"
 os.chdir(base_directory)
 
 # Load the shapefiles
