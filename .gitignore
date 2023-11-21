@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# data
+.dta
+ethnologue/
+data/Virtual_country/
+.DS_Store
+
 # C extensions
 *.so
 
